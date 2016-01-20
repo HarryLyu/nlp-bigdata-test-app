@@ -1,0 +1,13 @@
+{
+    "name": "igor.lyubimov/nlp-bigdata-test-app",
+    "require": {
+        "bocharsky-bw/vkontakte-php-sdk": "^2.0",
+        "simplon/mysql": "^1.3"
+    },
+    "authors": [
+        {
+            "name": "Igor Lyubimov",
+            "email": "io.lyubimov@gmail.com"
+        }
+    ]
+}
